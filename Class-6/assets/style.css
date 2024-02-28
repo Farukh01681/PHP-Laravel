@@ -1,0 +1,30 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body{
+      background-color: aqua;
+}
+
+legend{
+      text-align: center;
+}
+
+form{
+      text-align: center;
+}
+
+label{
+      padding:20px 20px;
+}
+
+
+section div{
+      border: 5px solid red;
+      margin-top: 10px;
+      text-align: center;
+      padding: 30px;
+      font-size: 50px;
+}
